@@ -10,7 +10,7 @@ As a developer welcome and greetings to all Developer Communies and people.😊
 
 Thank you! 😊
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+#### Skilled In : React Js / HTML5 / CSS3 / Sass / Bootstrap-3,4,5 / JavaScript(es5) / Jquery / JavaScript(es6) / WordPress 
 
 - 🔭 I’m currently working on LSKIT 
 - 🌱 I’m currently learning Node js
