@@ -12,8 +12,12 @@ Thank you! 😊
 
 ### Skilled In : React Js / HTML5 / CSS3 / Sass / Bootstrap-3,4,5 / JavaScript(es5) / Jquery / JavaScript(es6) / WordPress 
 
-- 🔭 I’m currently working on LSKIT 
-- 🌱 I’m currently learning Node js
+- 🔭 I’m currently working on LSKIT (lskit.com) 
+- 🌱 I’m currently learning Node Js, Express Js, MongoDB 
+- 👯 I’m looking to collaborate on Good Developer Community 
+- 🤔 I’m looking for help with React, WordPress & Design Solution. 
+- 📫 How to reach me: With my Social Networks, Website, Gmail. 
+- ⚡ Fun fact: Make huge mistake when I was a Freshers. 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bashar0091)  
 
