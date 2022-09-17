@@ -1,6 +1,6 @@
 ## If you want to fulfill your dreams, then stick to your goals.
 ### Hi there 👋, this is Awal Bashar
-#### I am GitHub Readme Generator's creator
+#### I am a Frontend Web Developer, Designer and WordPress Developer.
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
