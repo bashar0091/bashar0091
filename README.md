@@ -1,5 +1,5 @@
-## If you want to fulfill your dreams, then stick to your goals
-### Hi there 👋, my name is Awal Bashar
+## If you want to fulfill your dreams, then stick to your goals.
+### Hi there 👋, this is Awal Bashar
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
