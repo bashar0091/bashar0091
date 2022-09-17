@@ -15,10 +15,11 @@ Thank you! 😊
 - 🔭 I’m currently working on LSKIT 
 - 🌱 I’m currently learning Node js
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashar0091)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bashar0091)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bashar0091&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bashar0091&show_icons=true) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashar0091)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bashar0091)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bashar0091)  
