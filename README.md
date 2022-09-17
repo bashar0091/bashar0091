@@ -6,8 +6,9 @@
 ![Profile views](https://gpvc.arturio.dev/bashar0091)  
 
 I really like to work with Programming. That's why I started my career as a Web Developer.I've worked with some really good teams.Currently working in LSKIT (lskit.com) company as a full time Frontend Web Developer and WordPress Developer.Willing to move forward with Node Js, Express Js, MongoDb (MERN Stack) in future.I have already worked with very good company's website.I can work with JavaScript, PHP and Python Programming languages.
-As a developer welcome and greetings to all Developer Communies and people.
-Thank you!
+As a developer welcome and greetings to all Developer Communies and people.😊
+
+Thank you! 😊
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
