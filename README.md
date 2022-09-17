@@ -1,4 +1,4 @@
-## If you want to fulfill your dreams, then stick to your goals.
+## If you want to achieve your dreams, then stick on your goals.
 ### Hi there 👋, this is Awal Bashar
 #### I am a Frontend Web Developer, Designer and WordPress Developer.
 ![I am GitHub Readme Generator's creator](https://i.ibb.co/hXqxkHN/github-banner.jpg)
