@@ -2,6 +2,7 @@
 ### Hi there 👋, this is Awal Bashar
 #### I am a Frontend Web Developer, Designer and WordPress Developer.
 ![I am GitHub Readme Generator's creator](https://i.ibb.co/hXqxkHN/github-banner.jpg)
+![Profile views](https://gpvc.arturio.dev/bashar0091)  
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -17,5 +18,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bashar0091)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bashar0091)  
-
-![Profile views](https://gpvc.arturio.dev/bashar0091)  
