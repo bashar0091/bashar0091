@@ -2,7 +2,7 @@
 ### Full Stack Web, AI & Machine Learning Engineer
 
 <p align="left">
-  <img src="https://gpvc.arturio.dev/bashar0091" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Profile_Views-🔥-blue?style=flat-square" alt="Profile views" />
 </p>
 
 > **"Building Scalable Web Apps & Intelligent Systems"**
@@ -25,16 +25,12 @@ I am a passionate Full Stack Engineer specializing in creating high-performance 
 ### 📈 GitHub Ecosystem & Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bashar0091&show_icons=true&theme=dark" alt="Bashar's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashar0091&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bashar0091&show_icons=true&theme=dark" alt="Bashar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashar0091&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bashar0091&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=bashar0091&theme=dark" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bashar0091&theme=dark" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
