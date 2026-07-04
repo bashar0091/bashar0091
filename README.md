@@ -1,29 +1,53 @@
-## If you want to achieve your dreams, then stick on your goals.
-### Hi there 👋, this is Awal Bashar
-#### I am a Frontend Web Developer, Designer and WordPress Developer.
-![I am GitHub Readme Generator's creator](https://i.ibb.co/hXqxkHN/github-banner.jpg)
+# Hi there, I'm MD Awal Bashar 👋
+### Full Stack Web, AI & Machine Learning Engineer
 
-![Profile views](https://gpvc.arturio.dev/bashar0091)  
+<p align="left">
+  <img src="https://gpvc.arturio.dev/bashar0091" alt="Profile views" />
+</p>
 
-I really like to work with Programming. That's why I started my career as a Web Developer.I've worked with some really good teams.Currently working in LSKIT (lskit.com) company as a full time Frontend Web Developer and WordPress Developer.Willing to move forward with Node Js, Express Js, MongoDb (MERN Stack) in future.I have already worked with very good company's website.I can work with JavaScript, PHP and Python Programming languages.
-As a developer welcome and greetings to all Developer Communies and people.😊
+> **"Building Scalable Web Apps & Intelligent Systems"**
 
-Thank you! 😊
+I am a passionate Full Stack Engineer specializing in creating high-performance web applications and integrating intelligent solutions. With a strong background in modern JavaScript frameworks, PHP, and Python, I bridge the gap between robust server-side architecture and seamless, user-centric frontends.
 
-### Skilled In : React Js / HTML5 / CSS3 / Sass / Bootstrap-3,4,5 / JavaScript(es5) / Jquery / JavaScript(es6) / WordPress 
+---
 
-- 🔭 I’m currently working on LSKIT (lskit.com) 
-- 🌱 I’m currently learning Node Js, Express Js, MongoDB 
-- 👯 I’m looking to collaborate on Good Developer Community 
-- 🤔 I’m looking for help with React, WordPress & Design Solution. 
-- 📫 How to reach me: With my Social Networks, Website, Gmail. 
-- ⚡ Fun fact: Make huge mistake when I was a Freshers. 
+### 🛠️ Core Expertise & Tech Stack
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bashar0091)  
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend Development** | React.js, Next.js, HTML5, CSS3, Sass, Tailwind CSS, Bootstrap |
+| **Backend & Databases** | Laravel, Node.js, Express.js, PHP, Python, MongoDB, MySQL |
+| **CMS & E-Commerce** | WordPress, Shopify, Custom Plugin & Theme Development |
+| **AI & Automation** | AI Integration, Machine Learning Systems, Automated Workflows |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bashar0091&show_icons=true) 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashar0091)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 GitHub Ecosystem & Analytics
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bashar0091)  
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bashar0091&show_icons=true&theme=dark" alt="Bashar's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashar0091&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bashar0091&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=bashar0091&theme=dark" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### ⚡ Quick Overview
+
+- 🔭 **Current Focus:** Developing scalable web applications and AI-driven platforms at **WeTechPro**.
+- 🌱 **Deep Diving:** Advanced Machine Learning models, Next.js optimization, and server-side caching.
+- 👯 **Collaboration:** Open to collaborating on innovative Full-Stack projects and intelligent system designs.
+- 📫 **Connect with me:** `awalbashar194@gmail.com` | [bashar0091.github.io/awalbashar](https://bashar0091.github.io/awalbashar)
+
+---
+
+<p align="center">
+  <i>"If you want to achieve your dreams, stick to your goals."</i>
+</p>
